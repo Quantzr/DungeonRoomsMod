@@ -19,7 +19,7 @@ This mod adds Secret Waypoints to Skyblock Dungeons, allowing for faster and eas
 
 ### Syncer:
 The syncer is a separate forge mod that goes along with the normal one. It will sync secrets through players to speed up the process.
-Syncer: https://cdn.discordapp.com/attachments/961389772562116638/962934587871346758/Dungeon_Rooms_Syncer-0.9.1.jar
+Syncer: https://cdn.discordapp.com/attachments/973326446535782463/973347434979799091/Dungeon_Rooms_Syncer-0.9.1.jar
 
 Alternatively, you can also view images of the secret locations in the DSG Discord or with the SkyblockPersonalized Mod by pressing the hotkey "O" while in a room.
 ![Example Picture](https://hypixel.net/attachments/2481105/)
